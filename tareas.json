@@ -1,0 +1,26 @@
+[
+  {
+    "titulo": "matematica",
+    "estado": "terminada"
+  },
+  {
+    "titulo": "ciencias sociales",
+    "estado": "en progreso"
+  },
+  {
+    "titulo": "historia",
+    "estado": "pendiente"
+  },
+  {
+    "titulo": "literatura",
+    "estado": "pendiente"
+  },
+  {
+    "titulo": "ingles",
+    "estado": "en progreso"
+  },
+  {
+    "titulo": "TP3",
+    "estado": "terminada"
+  }
+]
